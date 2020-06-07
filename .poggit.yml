@@ -1,0 +1,8 @@
+--- # Poggit-CI Manifest. Open the CI at https://poggit.pmmp.io/ci/Kingbobs/Minewarp
+build-by-default: true
+branches:
+- master
+projects:
+  WarpMine_:
+    path: WarpMine_/
+...
