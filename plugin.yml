@@ -1,7 +1,7 @@
 name: WarpMine
 version: 0.1
 author: Phuongaz
-main: WarpMine\phuongaz\Main
+main: WarpMine\src\phuongaz\Main
 api: 3.0.0
 
 commands:
